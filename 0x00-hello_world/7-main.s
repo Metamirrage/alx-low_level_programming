@@ -1,4 +1,4 @@
-	.file	"7-main.c"
+.file	"7-main.c"
 	.text
 	.section	.rodata
 .LC0:
