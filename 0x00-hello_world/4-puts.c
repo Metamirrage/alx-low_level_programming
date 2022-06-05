@@ -2,14 +2,12 @@
 /**
  * main - is the entry point for the programme
  */
-int main(void)
+int main(int)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	/**
 	 * return -ends the program, with sucess
 	 *
 	 */
-	return (0);/**return -ends the program, with sucess results
-		  
-		     */
+	return (0);
 }
