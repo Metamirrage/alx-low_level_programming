@@ -1,7 +1,6 @@
 #include<stdio.h>
 /** 
  * main - the entry for the program
- *
  */
 int main(void)
 {
