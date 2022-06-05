@@ -9,5 +9,5 @@ int main(void)
 	 * return -ends the program, with sucess
 	 *
 	 */
-	return 0;
+	return (0);
 }
